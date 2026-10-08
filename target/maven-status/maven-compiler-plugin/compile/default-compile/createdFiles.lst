@@ -1,0 +1,14 @@
+tz\market\api\ModuleRegistry.class
+tz\market\api\AuthUser.class
+tz\market\api\LookupController.class
+tz\market\api\ModuleController.class
+tz\market\api\TableSpec.class
+tz\market\api\DashboardController.class
+tz\market\api\WebConfig.class
+tz\market\api\ApiException.class
+tz\market\api\AuthInterceptor.class
+tz\market\api\GlobalExceptionHandler.class
+tz\market\api\TokenService.class
+tz\market\api\RecycleBinController.class
+tz\market\api\AuthController.class
+tz\market\api\MarketApiApplication.class
